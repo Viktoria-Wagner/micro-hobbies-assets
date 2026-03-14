@@ -10,7 +10,7 @@ Wenn ein neues Hobby in die Firebase-Datenbank (Firestore) eingetragen wird, mus
 
 1. Lade die `.svg` Datei in dieses Repository hoch.
 2. Klicke auf die hochgeladene Datei und wähle **"Raw"**.
-3. Kopiere die URL aus dem Browser (beginnt mit `[https://raw.githubusercontent.com/](https://cdn.jsdelivr.net/gh/)...`).
+3. Kopiere die URL aus dem Browser (beginnt mit `https://cdn.jsdelivr.net/gh/...`).
 4. Füge diese URL in der Firestore-Datenbank in das Feld `svgUrl` ein.
 
 ## Struktur
